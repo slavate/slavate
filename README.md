@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Blockchain and technologies
 - 🌱 I’m currently learning Blockchain and DeFi
 - 💞️ I’m looking to collaborate on Blockchain
-- 📫 How to reach me slavate@gmail.com
+- 📫 How to reach me viacheslav.tereshchenko@gmail.com
 
 <!---
 slavate/slavate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
