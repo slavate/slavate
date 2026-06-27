@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @slavate
-- 👀 I’m interested in AI, Blockchain and technologies
+- 👀 I’m interested in AI, Blockchain, Autonomous Driving and technologies
 - 🌱 I’m currently learning Blockchain and DeFi
-- 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me viacheslav.tereshchenko@gmail.com
 
 <!---
